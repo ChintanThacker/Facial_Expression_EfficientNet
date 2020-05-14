@@ -9,7 +9,7 @@
 ---
 
 * The **Karolinska Directed Emotional Faces** (**KDEF**) is a set of totally 4900 pictures of human facial expressions.
-* The **Averaged KDEF** (**AKDEF**) is a set of averaged pictures created from the original KDEF images. You will find more details about [KDEF *here*](https://www.kdef.se/home/aboutKDEF.html), and about [AKDEF ](https://www.kdef.se/home/about akdef.html)*here.*
+* You will find more details about [KDEF *here*](https://www.kdef.se/home/aboutKDEF.html).
 
 Official Dataset : [KDEF](https://www.kdef.se/)
 
