@@ -47,7 +47,7 @@ Official Dataset : [KDEF](https://www.kdef.se/)
 
 ---
 
-![](D:\github\effnet.jpg)
+![](https://github.com/ChintanThacker/Facial_Expression_Effiecentnet/blob/master/effnet.jpg)
 
 **References:**
 
